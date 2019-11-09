@@ -1,5 +1,5 @@
 /* 
-   Last updated: 3 Aug 2019
+   Last updated: 8 Nov 2019
    DZ60 Layout by ottodokto
 
    This layout is a modification of the 60 tsangan hhkb layout, 
@@ -15,6 +15,8 @@
 /*---defines-------------------------------------------- */
 #define KC_CTOG LT(_func, KC_CAPS)
 #define KC_TTAP TT(_func)
+
+#define TAPPING_TOGGLE 2
 
 #define RGB_STA RGB_M_P		// rgb static
 #define RGB_BRE RGB_M_B 	// rgb breathe
